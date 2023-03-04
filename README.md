@@ -6,5 +6,5 @@ Contributors:
   1. Ambily Treesa Varghese
   2. Dileep Sathyan
   3. Jibina Francis
-  4. Satya Akhil
-  5. Sreelakshmi 
+  4. Satya Akhil Govvala
+  5. Srilakshmi Gummadidala
